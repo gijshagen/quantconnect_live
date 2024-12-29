@@ -1,3 +1,3 @@
 aex_company,aex_company_name,action,negative_boundary,positive_boundary,time_limit_days,percentage_call,start_date,end_date
-ASML,ASML Nederland,Buy,-0.20,0.20,21,0.1,16-12-2024,3-1-2025
-BESI,BESI,Short,-0.05,0.11,20,0.025,16-12-2024,3-1-2025
+ASML,ASML Nederland,Buy,-0.20,0.20,21,0.1,30-12-2024,3-1-2025
+BESI,BESI,Short,-0.05,0.11,20,0.025,30-12-2024,3-1-2025
